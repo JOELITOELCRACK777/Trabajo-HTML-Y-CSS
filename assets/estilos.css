@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #aaa;
+    margin: 0;
+    text-align: center;
+  }
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .menu {
+    border: 1px solid black;
+    background-color: #aaa;
+    width: 100%;
+  }
+  
+  .menu tr {
+    width: 100%;
+  }
+  
+  .menu td {
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .menu .logo {
+    text-align: left;
+    width: 120px;
+    padding-left: 250px;  
+  }
+  
+  .menu .logo img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .carreras {
+    width: 90%;
+    margin: 100px auto;
+  }
+  
+  .carreras td img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .matricula img {
+    width: 100%;
+    max-width: 1300px;
+    height: auto;
+  }
+  
+  .tabla-estudiantes {
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  .tabla-estudiantes {
+    border: 1px solid black; 
+    background-color: #aaa; 
+    width: 100%;
+    margin: 20px 0; 
+    padding: 10px 0; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .fila {
+    display: flex;
+    justify-content: space-between; 
+    padding: 5px 20px;
+  }
+  
+  .izquierda {
+    text-align: left; 
+    flex: 1;
+  }
+  
+  .centro {
+    text-align: center; 
+    flex: 1;
+  }
+  
+  .derecha {
+    text-align: right;
+    flex: 1;
+  }
+  
+
+  
